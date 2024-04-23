@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-transform: capitalize;
+
+}
+
+body{
+    background-color: #e88eab;
+}
+
+.center {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.love-div{
+    height: 35rem;
+    width: 20rem;
+    border: 2px solid rgba(255, 0, 0, 0);
+    box-shadow: 1px -1px 10px #ff00008f;
+}
+
+.love{
+    margin: 2.5rem;
+    
+}
+
+.love label{
+    font-size: 1.3rem;
+    color: #f7e5eb;
+}
+
+.love input{
+    height: 2rem;
+    width: 15rem;
+    margin-top: 1.5rem;
+    margin-bottom: 4rem;
+    border: none;
+    border-radius: .2rem;
+    color: gray;
+    font-size: 1rem;
+    padding-left: .6rem;
+}
+
+
+
+/* CSS */
+.button {
+  border: none;
+  color: #f7e5eb;
+  padding: 10px 35px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 1rem;
+  cursor: pointer;
+  background: #ee6d96fb;
+  border-radius: .5rem;
+}
+
+h1{
+    text-align: center;
+    color: #f7e5eb;
+    margin: 5rem 0;
+}
